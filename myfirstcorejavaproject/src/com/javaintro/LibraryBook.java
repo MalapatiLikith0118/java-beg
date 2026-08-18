@@ -37,7 +37,7 @@ public class LibraryBook {
 
 	public static void main(String[] args) {
 		
-		// creating an method
+		// creating an objects
 		
 		LibraryBook book1 = new LibraryBook();
 		LibraryBook book2 = new LibraryBook();
