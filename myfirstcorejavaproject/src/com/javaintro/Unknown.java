@@ -1,10 +1,9 @@
 package com.javaintro;
 
-public class Hi {
+public class Unknown {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("hi");
 	}
 
 }
