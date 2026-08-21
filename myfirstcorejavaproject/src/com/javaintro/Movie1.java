@@ -60,10 +60,6 @@ public class Movie1 {
 		
 		m1.changemanagement("likith");
 		
-		
-		
-		
-		
 	}
 
 }
