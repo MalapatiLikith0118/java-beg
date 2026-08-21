@@ -13,12 +13,7 @@ public class Objectdatatypes {
 	BigInteger phno1;
 	
 	Integer hi;
-	
-	
-	
 	String s1 = new String("likith");
-	
-	
 	
 	BigInteger phno = new BigInteger("787765778");
 	
