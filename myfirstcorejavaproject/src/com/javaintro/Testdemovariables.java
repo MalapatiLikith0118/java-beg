@@ -18,4 +18,10 @@ public class Testdemovariables {
 		System.out.println(b3);
 	}
 
+
+
+
+
+
+
 }
