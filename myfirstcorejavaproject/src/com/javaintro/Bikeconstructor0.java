@@ -16,37 +16,37 @@ public class Bikeconstructor0 {
 	
 	Bikeconstructor0(String bikename, String company)
 	{
-		this(bikename, company,100000);
+	//	this(bikename, company,100000);
 
-	//	this("unknown","Royal enfield",450000.00,"ADV",2026);
-//		this.bikename = bikename;
-//		this.company = company;
-//		this.price = price;
-//		this.biketype = biketype;
-////		this.year = year;
+		this("unknown","Royal enfield",450000.00,"ADV",2026);
+		this.bikename = bikename;
+		this.company = company;
+		this.price = price;
+		this.biketype = biketype;
+		this.year = year;
 	
 	}
 	
 	Bikeconstructor0(String bikename, String company, double price)
 	{
-		this(bikename, company,100000, "ADV");
+	//	this(bikename, company,100000, "ADV");
 
-	//	this("unknown","Royal enfield",450000.00,"ADV",2026);
-//		this.bikename = bikename;
-//		this.company = company;
-//		this.price = price;
-//		this.biketype = biketype;
-////		this.year = year;
+		this("unknown","Royal enfield",450000.00,"ADV",2026);
+		this.bikename = bikename;
+		this.company = company;
+		this.price = price;
+		this.biketype = biketype;
+		this.year = year;
 	
 	}
 	Bikeconstructor0(String bikename, String company, double price, String biketype)
 	{
-		this("unknown","Royal enfield",450000.00,"ADV",2026);
-//		this.bikename = bikename;
-//		this.company = company;
-//		this.price = price;
-//		this.biketype = biketype;
-////		this.year = year;
+	//	this("unknown","Royal enfield",450000.00,"ADV",2026);
+		this.bikename = bikename;
+		this.company = company;
+		this.price = price;
+		this.biketype = biketype;
+		this.year = year;
 		
 	}
 	
