@@ -30,6 +30,10 @@ public class Ifelsedemo4 {
 		{
 			System.out.println("low consumption");
 		}
+		else
+		{
+			System.out.println("Not used any power")
+		}
 		
 	}
 
