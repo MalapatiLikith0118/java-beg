@@ -14,6 +14,8 @@ public class Displayname {
 		
 		Displayname d1 = new Displayname();
 		
+		sc.close();
+		
 		
 		
 		System.out.println("enter name to proceed: ");
